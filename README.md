@@ -1,6 +1,8 @@
-### Hi there 👋
+<div align="center">
+  ### Hi there 👋
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>  
+</div>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360"/>
 
 <!--
 **YannisHaismann/YannisHaismann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
