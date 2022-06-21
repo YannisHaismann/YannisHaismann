@@ -4,15 +4,16 @@
   <div id="header-links">
     <a target="_blank" href="https://yannishaismann.fr/Hello">
       <img src="https://img.shields.io/badge/MY%20PORTEFOLIO-critical?style=for-the-badge&color=blue" alt="Portefolio link"/>
+      (Non maintenu)
     </a>
     <div id="badges">
       <a target="_blank" href="https://www.malt.fr/profile/haismannyannis">
         <img src="https://img.shields.io/badge/%20PROFILE-MALT-critical?style=for-the-badge" alt="Malt badge"/>
       </a>
-      <a target="_blank" href="https://www.malt.fr/profile/haismannyannis">
+      <a target="_blank" href="https://www.linkedin.com/in/yannis-haismann-289286192/">
         <img src="https://img.shields.io/badge/%20PROFILE-LINKEDIN-critical?style=for-the-badge&color=blue" alt="LinkedIn badge"/>
       </a>
-      <a target="_blank" href="https://www.malt.fr/profile/haismannyannis">
+      <a target="_blank" href="https://stackoverflow.com/users/16226393/yannis-haismann">
         <img src="https://img.shields.io/badge/%20PROFILE-STACKOVERFLOW-critical?style=for-the-badge&color=orange" alt="StackOverflow badge"/>
       </a>
     </div>
