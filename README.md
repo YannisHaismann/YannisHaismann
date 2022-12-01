@@ -2,10 +2,6 @@
   <img width="256" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   <br><br>
   <div id="header-links">
-    <a target="_blank" href="https://yannishaismann.fr/Hello">
-      <img src="https://img.shields.io/badge/MY%20PORTEFOLIO-critical?style=for-the-badge&color=blue" alt="Portefolio link"/>
-      (Non maintenu)
-    </a>
     <div id="badges">
       <a target="_blank" href="https://www.malt.fr/profile/haismannyannis">
         <img src="https://img.shields.io/badge/%20PROFILE-MALT-critical?style=for-the-badge" alt="Malt badge"/>
