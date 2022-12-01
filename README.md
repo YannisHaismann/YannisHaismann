@@ -25,7 +25,7 @@
   
  #### 👨‍💻 About me :
   
- I'm a Front-end developer from France and i work as a freelancer. I love to work on ambitious and interesting projects, to work as a team and focus on the same goal with a good energy !
+ I'm a Full-Stack developer from France and i work as a freelancer. I love to work on ambitious and interesting projects, to work as a team and focus on the same goal with a good energy !
   
  <hr>
  
